@@ -18,11 +18,6 @@ public class MyFirstTest {
 
         }
 
-    @Test
-    public void canSubtractTwoFromTwo() {
-        int answer = 2 - 2;
-        assertEquals("2-2=0", 0, answer);
-
     }
 
     @Test
