@@ -3,7 +3,7 @@
  */
 
 package com.javafortesters.chap003myfirsttest.examples;
-
+//testing comments
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -17,7 +17,7 @@ public class MyFirstTest {
         assertEquals("2+2=4", 4, answer );
 
         }
-        
+
     @Test
     public void canSubtractTwoFromTwo() {
         int answer = 2 - 2;
